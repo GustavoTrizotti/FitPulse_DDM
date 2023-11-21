@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1003850874591",
+    "firebase_url": "https://fit-pulse-default-rtdb.firebaseio.com",
+    "project_id": "fit-pulse",
+    "storage_bucket": "fit-pulse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003850874591:android:169b0a901fd0bd9e02f36a",
+        "android_client_info": {
+          "package_name": "com.example.ddm_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVOyQlxxqFphXy_oI0UIju8aLogFYoDYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
